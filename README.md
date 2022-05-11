@@ -4,7 +4,7 @@
 
 Welcome to my github, I hope you can gain knowledge and happiness here.
 
-👉 My blog site : [cryface'blog](cryface.cn)
+👉 My blog site : [cryface'blog](http://cryface.cn)
 
 🤙 My email : linshanting8068@qq.com
 
